@@ -1,5 +1,4 @@
 # M.Tech-Project
-Observer-Based Sensorless Control of BLDC Motor for Electric Vehicle Applications 
 In recent years, brushless DC (BLDC) motors have gained significant popularity due
 to their high efficiency, reliability, and low maintenance requirements. In traditional
 BLDC drives, the rotor position is sensed using Hall-effect sensors, which allow the
